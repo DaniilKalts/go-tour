@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Functions", basics.ExampleFunctions)
+	utils.PrintSyntaxSection("Variables", basics.ExampleVariables)
 }
