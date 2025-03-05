@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Data Types", basics.ExampleDataType)
+	utils.PrintSyntaxSection("Loops", basics.ExampleLoops)
 }
