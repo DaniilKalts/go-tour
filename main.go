@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Loops", basics.ExampleLoops)
+	utils.PrintSyntaxSection("Conditions", basics.ExampleConditions)
 }
