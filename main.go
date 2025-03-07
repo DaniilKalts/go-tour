@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Conditions", basics.ExampleConditions)
+	utils.PrintSyntaxSection("Defer", basics.ExampleDefer)
 }
