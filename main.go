@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Defer", basics.ExampleDefer)
+	utils.PrintSyntaxSection("Pointers", basics.ExamplePointers)
 }
