@@ -6,10 +6,10 @@ Package: is a collection of Go files (typically in the same directory).
 package main
 
 import (
-	"go-tour/basics"
+	"go-tour/basics/datastructures"
 	"go-tour/utils"
 )
 
 func main() {
-	utils.PrintSyntaxSection("Pointers", basics.ExamplePointers)
+	utils.PrintSyntaxSection("Structs", datastructures.ExampleStructs)
 }
