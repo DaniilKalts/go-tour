@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Structs", datastructures.ExampleStructs)
+	utils.PrintSyntaxSection("Arrays", datastructures.ExampleArrays)
 }
