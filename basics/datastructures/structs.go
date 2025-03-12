@@ -1,5 +1,5 @@
 /*
-Struct - a collection of key-value pairs.
+Struct - a fixed collection of named fields with defined types.
 */
 
 package datastructures
