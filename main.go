@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Methods", intermediate.ExampleMethods)
+	utils.PrintSyntaxSection("Interfaces", intermediate.ExampleInterfaces)
 }
