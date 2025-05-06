@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Type Assertions", intermediate.ExampleTypeAssertions)
+	utils.PrintSyntaxSection("Stringers", intermediate.ExampleStringers)
 }
