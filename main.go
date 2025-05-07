@@ -11,5 +11,5 @@ import (
 )
 
 func main() {
-	utils.PrintSyntaxSection("Stringers", intermediate.ExampleStringers)
+	utils.PrintSyntaxSection("Errors", intermediate.ExampleErrors)
 }
