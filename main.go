@@ -6,10 +6,10 @@ Package: is a collection of Go files (typically in the same directory).
 package main
 
 import (
-	"go-tour/intermediate"
+	"go-tour/packages"
 	"go-tour/utils"
 )
 
 func main() {
-	utils.PrintSyntaxSection("Errors", intermediate.ExampleErrors)
+	utils.PrintLibrarySection("Image", packages.ExampleImage)
 }
