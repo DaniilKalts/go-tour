@@ -1,4 +1,4 @@
-module go-tour
+module github.com/DaniilKalts/go-tour
 
 go 1.24.0
 
